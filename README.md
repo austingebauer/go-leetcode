@@ -1,6 +1,6 @@
 # go-leetcode
 
-A collection of 100+ popular [LeetCode](https://leetcode.com/) problems solved in 
+A collection of 100+ popular [LeetCode](https://leetcode.com/) problems that I've solved in 
 [Go](https://golang.org/).
 
 Each directory includes a:
