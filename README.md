@@ -12,6 +12,9 @@ Note that each of these problems **have passed** their respective test cases on 
 tests included with each solution in this repo are not comprehensive. They serve as a quick way to 
 drop in a test case, hook up the debugger, and step through the algorithms to build understanding. 
 
+Also note that some of my personal comments are in the solutions. I'll be working to clean up 
+anything that is not insightful.
+
 ## Problems
 
 There are a variety of popular LeetCode problems solved in this repository. However, most of the problems
