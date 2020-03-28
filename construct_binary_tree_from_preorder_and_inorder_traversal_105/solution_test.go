@@ -1,7 +1,7 @@
 package construct_binary_tree_from_preorder_and_inorder_traversal_105
 
 import (
-	. "github.com/austingebauer/leetcode/structures"
+	. "github.com/austingebauer/go-leetcode/structures"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

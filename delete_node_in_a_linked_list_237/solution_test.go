@@ -1,7 +1,7 @@
 package delete_node_in_a_linked_list_237
 
 import (
-	. "github.com/austingebauer/leetcode/structures"
+	. "github.com/austingebauer/go-leetcode/structures"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

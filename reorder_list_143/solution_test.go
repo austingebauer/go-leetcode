@@ -1,7 +1,7 @@
 package reorder_list_143
 
 import (
-	. "github.com/austingebauer/leetcode/structures"
+	. "github.com/austingebauer/go-leetcode/structures"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

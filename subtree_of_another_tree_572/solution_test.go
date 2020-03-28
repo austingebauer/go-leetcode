@@ -1,7 +1,7 @@
 package subtree_of_another_tree_572
 
 import (
-	. "github.com/austingebauer/leetcode/structures"
+	. "github.com/austingebauer/go-leetcode/structures"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

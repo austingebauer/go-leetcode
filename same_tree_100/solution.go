@@ -1,6 +1,6 @@
 package same_tree_100
 
-import . "github.com/austingebauer/leetcode/structures"
+import . "github.com/austingebauer/go-leetcode/structures"
 
 func isSameTree(p *TreeNode, q *TreeNode) bool {
 	// if p is nil and q is not or vice versa

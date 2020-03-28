@@ -1,6 +1,6 @@
 package binary_tree_level_order_traversal_102
 
-import . "github.com/austingebauer/leetcode/structures"
+import . "github.com/austingebauer/go-leetcode/structures"
 
 // Slight variation of first correct solution below, which
 // doesn't keep counters for the number of elements in a

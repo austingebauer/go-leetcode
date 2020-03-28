@@ -1,7 +1,7 @@
 package linked_list_cycle_141
 
 import (
-	. "github.com/austingebauer/leetcode/structures"
+	. "github.com/austingebauer/go-leetcode/structures"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

@@ -1,7 +1,7 @@
 package inorder_successor_in_bst_285
 
 import (
-	. "github.com/austingebauer/leetcode/structures"
+	. "github.com/austingebauer/go-leetcode/structures"
 )
 
 /**

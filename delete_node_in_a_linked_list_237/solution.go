@@ -1,6 +1,6 @@
 package delete_node_in_a_linked_list_237
 
-import . "github.com/austingebauer/leetcode/structures"
+import . "github.com/austingebauer/go-leetcode/structures"
 
 /**
  * Definition for singly-linked list.

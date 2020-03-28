@@ -1,6 +1,6 @@
 package reverse_linked_list_206
 
-import . "github.com/austingebauer/leetcode/structures"
+import . "github.com/austingebauer/go-leetcode/structures"
 
 // Returns a pointer to a list that is the reverse of the passed head.
 // This function prepends the first n values in the passed list

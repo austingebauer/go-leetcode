@@ -1,7 +1,7 @@
 package add_two_numbers_2
 
 import (
-	"github.com/austingebauer/leetcode/structures"
+	"github.com/austingebauer/go-leetcode/structures"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

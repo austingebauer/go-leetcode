@@ -1,6 +1,6 @@
 package remove_nth_node_from_end_of_list_19
 
-import . "github.com/austingebauer/leetcode/structures"
+import . "github.com/austingebauer/go-leetcode/structures"
 
 func removeNthFromEnd(head *ListNode, n int) *ListNode {
 	n = df(head, n)

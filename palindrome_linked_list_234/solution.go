@@ -1,7 +1,7 @@
 package palindrome_linked_list_234
 
 import (
-	. "github.com/austingebauer/leetcode/structures"
+	. "github.com/austingebauer/go-leetcode/structures"
 )
 
 /**

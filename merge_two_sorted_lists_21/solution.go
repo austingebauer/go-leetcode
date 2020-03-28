@@ -1,6 +1,6 @@
 package merge_two_sorted_lists_21
 
-import . "github.com/austingebauer/leetcode/structures"
+import . "github.com/austingebauer/go-leetcode/structures"
 
 func mergeTwoLists2(l1 *ListNode, l2 *ListNode) *ListNode {
 	// Note: Cool technique to not have to worry about front of list being null

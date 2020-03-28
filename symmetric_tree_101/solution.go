@@ -1,6 +1,6 @@
 package symmetric_tree_101
 
-import . "github.com/austingebauer/leetcode/structures"
+import . "github.com/austingebauer/go-leetcode/structures"
 
 /**
  * Definition for a binary tree node.

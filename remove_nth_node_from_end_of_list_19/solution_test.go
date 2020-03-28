@@ -1,7 +1,7 @@
 package remove_nth_node_from_end_of_list_19
 
 import (
-	. "github.com/austingebauer/leetcode/structures"
+	. "github.com/austingebauer/go-leetcode/structures"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

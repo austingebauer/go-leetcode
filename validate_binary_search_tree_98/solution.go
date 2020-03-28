@@ -1,6 +1,6 @@
 package validate_binary_search_tree_98
 
-import . "github.com/austingebauer/leetcode/structures"
+import . "github.com/austingebauer/go-leetcode/structures"
 
 func isValidBST(root *TreeNode) bool {
 	if root == nil || (root.Left == nil && root.Right == nil) {

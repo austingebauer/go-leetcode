@@ -1,6 +1,6 @@
 package linked_list_cycle_141
 
-import . "github.com/austingebauer/leetcode/structures"
+import . "github.com/austingebauer/go-leetcode/structures"
 
 // Time: O(n)
 // Space: O(1)
