@@ -6,7 +6,7 @@ A collection of 100+ popular [LeetCode](https://leetcode.com/) problems that I'v
 Each directory includes a:
 - Description with link to LeetCode problem
 - Solution to the problem
-- A unit test
+- Unit test
 
 Note that each of these problems **have passed** their respective test cases on LeetCode. The unit 
 tests included with each solution in this repo are not comprehensive. They serve as a quick way to 
