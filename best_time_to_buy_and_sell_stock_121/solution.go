@@ -3,6 +3,17 @@ package best_time_to_buy_and_sell_stock_121
 import "math"
 
 // O(n) time and O(1) space
+func maxProfit3(prices []int) int {
+	var res float64
+	var low = math.MaxFloat64
+	for _, p := range prices {
+		res = math.Max(res, float64(p)-low)
+		low = math.Min(low, float64(p))
+	}
+	return int(res)
+}
+
+// O(n) time and O(1) space
 func maxProfit2(prices []int) int {
 	maxProfit := 0
 	minPrice := math.MaxInt32
