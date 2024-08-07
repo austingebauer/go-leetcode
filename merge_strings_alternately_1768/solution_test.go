@@ -1,4 +1,4 @@
-package add_two_numbers_2
+package merge_strings_alternately_1768
 
 import (
 	"testing"
