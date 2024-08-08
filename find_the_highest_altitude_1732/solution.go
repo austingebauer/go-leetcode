@@ -1,4 +1,4 @@
-package template
+package find_the_highest_altitude_1732
 
 import "math"
 
