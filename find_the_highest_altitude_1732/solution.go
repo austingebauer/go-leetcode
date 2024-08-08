@@ -18,9 +18,9 @@ func largestAltitude(gain []int) int {
 	}
 
 	// catch is that zero starting point could be the highest altitude
-	max := 0
+	highest := 0
 	for _, s := range prefixSums {
-		max = int(math.Max(float64(max), float64(s)))
+		highest = int(math.Max(float64(highest), float64(s)))
 	}
-	return max
+	return highest
 }
